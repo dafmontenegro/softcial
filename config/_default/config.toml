@@ -1,0 +1,15 @@
+baseURL = "https://montenegrodanielfelipe.com/softcial/"
+defaultContentLanguage = "en"
+
+enableRobotsTXT = true
+summaryLength = 0
+paginate = 10
+
+timeout = "90s"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[services]
+  [services.googleAnalytics]
+    ID = "G-QMJW2TPVMJ"

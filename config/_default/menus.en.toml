@@ -1,0 +1,27 @@
+[[main]]
+  name = "¿Quienes somos?"
+  pageRef = "about"
+  weight = 10
+
+[[main]]
+  name = "Nuestra identidad"
+  pageRef = "identity"
+  weight = 20
+
+[[main]]
+  name = "Contactanos"
+  pageRef = "contact"
+  weight = 30
+
+[[main]]
+  identifier = "search"
+  weight = 99
+  [main.params]
+    action = "search"
+
+
+
+[[footer]]
+  name = "Privacidad"
+  pageRef = "privacy"
+  weight = 100

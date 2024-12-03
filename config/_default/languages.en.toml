@@ -1,0 +1,22 @@
+languageCode = "en"
+languageName = "English"
+languageDirection = "ltr"
+weight = 1
+
+title = "Softcial"
+copyright = "© 2025 Softcial. Todos los derechos reservados."
+
+[params]
+  dateFormat = "2 January 2006"
+  description = "¡Transformamos datos sociales en decisiones politicas!"
+
+[params.author]
+  name = "Softcial"
+  image = "svg/softcial.svg"
+  headline = "¡Transformamos datos sociales en decisiones politicas!"
+  links = [
+    { telegram = "https://t.me/softcial" },
+    { email = "mailto:softcial.contact@gmail.com" },
+    { x-twitter = "https://x.com/dafmontenegro" },
+    { youtube = "https://youtube.com/@MiAmigoMelquiades" },
+  ]
