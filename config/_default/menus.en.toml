@@ -24,4 +24,9 @@
 [[footer]]
   name = "Privacidad"
   pageRef = "privacy"
+  weight = 90
+
+[[footer]]
+  name = "SEO"
+  url = "https://pagespeed.web.dev/analysis/https-montenegrodanielfelipe-com-softcial/9alzt6mbia?form_factor=desktop"
   weight = 100
