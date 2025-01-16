@@ -4,22 +4,20 @@
   weight = 10
 
 [[main]]
-  name = "Nuestra identidad"
-  pageRef = "identity"
+  name = "Contactanos"
+  pageRef = "contact"
   weight = 20
 
 [[main]]
-  name = "Contactanos"
-  pageRef = "contact"
+  name = "Login"
+  url = "https://softcial-dynamic.vercel.app/"
   weight = 30
 
-[[main]]
-  identifier = "search"
-  weight = 99
-  [main.params]
-    action = "search"
 
-
+[[footer]]
+  name = "Términos y Condiciones"
+  pageRef = "terms-and-conditions"
+  weight = 80
 
 [[footer]]
   name = "Privacidad"
@@ -28,5 +26,5 @@
 
 [[footer]]
   name = "SEO"
-  url = "https://pagespeed.web.dev/analysis/https-montenegrodanielfelipe-com-softcial/9alzt6mbia?form_factor=desktop"
+  url = "https://pagespeed.web.dev/analysis/https-montenegrodanielfelipe-com-softcial/4aujfgbx75?form_factor=desktop"
   weight = 100
