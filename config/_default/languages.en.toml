@@ -8,12 +8,12 @@ copyright = "© 2025 Softcial. Todos los derechos reservados."
 
 [params]
   dateFormat = "2 January 2006"
-  description = "¡Transformamos datos sociales en decisiones politicas!"
+  description = "Datos que inspiran, tendencias que guían."
 
 [params.author]
   name = "SOFTCIAL"
   image = "svg/softcial.svg"
-  headline = "¡Transformamos datos sociales en decisiones politicas!"
+  headline = "Datos que inspiran, tendencias que guían."
   links = [
     { telegram = "https://t.me/softcial" },
     { email = "mailto:softcial.contact@gmail.com" },
