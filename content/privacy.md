@@ -16,23 +16,19 @@ En SoftCial, respetamos y protegemos la privacidad de nuestros usuarios. Esta Po
 
 ## 2. Recolección de Información Personal
 Recolectamos información personal cuando usted se registra en nuestra plataforma, utiliza nuestros servicios o interactúa con nosotros. Esta información puede incluir:
-
 - Nombre completo, correo electrónico, teléfono y dirección.
-- Información sensible, como orientación política, con su consentimiento expreso.
 - Datos relacionados con el uso de la plataforma, como preferencias y actividades.
 
-## 3. Uso de la Información
+## 3.  Uso de la Información
 Utilizamos su información personal para:
-
 - Proveer y mejorar nuestros servicios.
 - Personalizar su experiencia en la plataforma.
-- Generar informes y análisis relacionados con la participación política juvenil.
+- Generar informes y análisis relacionados con su actividad como usuario.
 - Comunicarnos con usted sobre actualizaciones, eventos y otras noticias relevantes.
 
 ## 4. Tratamiento de Datos Sensibles
-
-- La recolección y tratamiento de datos sensibles, como su orientación política, se realizará exclusivamente con su autorización previa, expresa y escrita.
-- Usted podrá decidir libremente si desea compartir esta información, y podrá revocar su consentimiento en cualquier momento.
+- La recolección y tratamiento de datos sensibles, como las tendencias de interés que examine dentro de la plataforma, se realizará exclusivamente con su autorización previa, expresa y escrita.
+- El usuario podrá decidir libremente si desea compartir esta información, y podrá revocar su consentimiento en cualquier momento.
 
 ## 5. Derechos de los Titulares de Datos
 De conformidad con la Ley 1581 de 2012, usted tiene los siguientes derechos:
