@@ -17,11 +17,16 @@
 [[footer]]
   name = "Términos y Condiciones"
   pageRef = "terms-and-conditions"
-  weight = 80
+  weight = 70
 
 [[footer]]
   name = "Privacidad"
   pageRef = "privacy"
+  weight = 80
+
+[[footer]]
+  name = "Meta Tags"
+  url = "https://www.opengraph.xyz/url/https%3A%2F%2Fmontenegrodanielfelipe.com%2Fsoftcial%2F"
   weight = 90
 
 [[footer]]
