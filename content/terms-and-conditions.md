@@ -12,13 +12,13 @@ categories: []
 tags: []
 ---
 ## 1. Introducción
-Bienvenido/a a SoftCial. Al acceder y utilizar nuestros servicios, usted acepta los presentes Términos y Condiciones ("Términos"). Si no está de acuerdo con alguno de estos términos, no deberá utilizar nuestra plataforma.
+Te damos la bienvenida por parte del equipo de SoftCial. Al acceder y utilizar nuestros servicios, usted acepta los presentes Términos y Condiciones. Al utilizar nuestra plataforma, usted declara que ha leído, comprendido y aceptado estos Términos y Condiciones en su totalidad.
 
 ## 2. Objeto del Servicio
-Nuestra plataforma tiene como objetivo promover la participación política juvenil mediante el uso de tecnología y estrategias digitales. Ofrecemos servicios de formación, divulgación de propuestas políticas y análisis imparcial, alineados con la legislación colombiana.
+Nuestra plataforma tiene como objetivo proveer análisis avanzado de tendencias mediante inteligencia artificial, recopilando y procesando datos de diversas fuentes digitales para generar reportes personalizados que permitan a empresas y particulares comprender la opinión del mercado y tomar decisiones estratégicas basadas en información actualizada y relevante.
 
 ## 3. Registro y Uso de la Plataforma
-Para acceder a ciertas funcionalidades, los usuarios deberán registrarse proporcionando información personal veraz y actualizada. Los usuarios son responsables de mantener la confidencialidad de sus credenciales de acceso y de todas las actividades realizadas bajo su cuenta.
+Para acceder a nuestros servicios, los usuarios deberán registrarse proporcionando información personal veraz y actualizada. Los usuarios son responsables de mantener la confidencialidad de sus credenciales de acceso y de todas las actividades realizadas bajo su cuenta.
 
 ## 4. Tratamiento de Datos Personales
 De conformidad con la Ley Estatutaria 1581 de 2012, el tratamiento de los datos personales de los usuarios se regirá por las siguientes condiciones:
@@ -60,7 +60,7 @@ La plataforma no se hace responsable por:
 - Daños directos o indirectos que puedan surgir del uso de los servicios.
 
 ## 8. Uso de Contenidos y Propiedad Intelectual
-Todos los contenidos de la plataforma, incluyendo textos, imágenes, logotipos y diseños, son propiedad de [Nombre de la empresa]. Está prohibida su reproducción sin autorización previa.
+Todos los contenidos de la plataforma, incluyendo textos, imágenes, logotipos y diseños, son propiedad de Softcial. Está prohibida su reproducción sin autorización previa, o clarificación sobre aquellas fuentes de uso público.
 
 ## 9. Políticas de Inclusión y Veracidad
 En cumplimiento de la Ley 1475 de 2011 y la Sentencia T-155/19, nuestros servicios están orientados a:
@@ -74,7 +74,10 @@ Nos reservamos el derecho de modificar estos Términos en cualquier momento. Las
 ## 11. Ley Aplicable y Jurisdicción
 Estos Términos se rigen por las leyes de la República de Colombia. Cualquier controversia será resuelta ante los tribunales competentes del país.
 
-## 12. Contacto
+## 12. Limitación de Responsabilidad y Uso de Datos
+Si bien nuestros reportes son generados mediante inteligencia artificial y revisados por agentes humanos para mejorar su precisión, la información proporcionada debe ser utilizada bajo la discreción exclusiva del cliente. Softcial no garantiza la exactitud o aplicabilidad de los datos generados y no se hace responsable por pérdidas, daños o cualquier consecuencia derivada del uso, interpretación o decisiones tomadas con base en nuestros reportes. El cliente acepta que la responsabilidad final sobre el uso de la información recae únicamente en él.
+
+## 13. Contacto
 Para cualquier consulta o solicitud relacionada con estos **Términos y Condiciones**, puede contactarnos por nuestro medio de contacto oficial usando este boton:
 
 {{< button href="https://t.me/softcial" target="_blank" >}}
