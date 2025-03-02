@@ -9,8 +9,8 @@
   weight = 20
 
 [[main]]
-  name = "Login"
-  url = "https://softcial-dynamic.vercel.app/"
+  name = "Ingresar"
+  url = "https://softcial-dynamic.vercel.app/sign-up"
   weight = 30
 
 
